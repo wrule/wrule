@@ -4,7 +4,7 @@
 ### 🚀 Decentralized currency believer 
 ### 💰 Quantitative trading enthusiast
 
-#### I like everything about React, Nodejs and Solidity
+#### I like everything about <font color="blue">React</font>, <font color="green">Nodejs</font> and <font color="gray">Solidity</font>
 #### And i am passionate about building high-performance indicator libraries (wasm) as well as quantitative trading frameworks
 #### And beautiful web3 product ui interfaces (any idea) 😄
 
