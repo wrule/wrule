@@ -6,6 +6,6 @@
 
 #### I like everything about React, Nodejs and Solidity
 #### And i am passionate about building high-performance indicator libraries (wasm) as well as quantitative trading frameworks
-#### And beautiful web3 product interfaces (any idea) 😄
+#### And beautiful web3 product ui interfaces (any idea) 😄
 
 ![Visitor Count](https://profile-counter.glitch.me/wrule/count.svg)
