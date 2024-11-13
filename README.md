@@ -1,4 +1,4 @@
-## HI I AM **<font color="blue">zgame.eth</font>** or *<font color="yellow">jimao 🐤</font>* or *<font color="green">wrule</font>*
+## HI I AM **<font color="blue">36000.eth</font>** or *<font color="yellow">jimao 🐤</font>* or *<font color="green">wrule</font>*
 
 ### 👨🏻‍💻 Web3 full stack engineer 
 ### 🚀 Decentralized currency believer 
