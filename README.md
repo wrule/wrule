@@ -9,3 +9,4 @@
 #### And beautiful web3 product ui interfaces (any idea) 😄
 
 ![Visitor Count](https://profile-counter.glitch.me/wrule/count.svg)
+![Visitor Count](https://main.d1f2cpa6kuac5r.amplifyapp.com/magic/hello)
