@@ -8,5 +8,4 @@
 #### And i am passionate about building high-performance indicator libraries (wasm) as well as quantitative trading frameworks
 #### And beautiful web3 product ui interfaces (any idea) 😄
 
-![Visitor Count](https://profile-counter.glitch.me/wrule/count.svg)
 ![Visitor Count](https://main.d1f2cpa6kuac5r.amplifyapp.com/magic/hello)
