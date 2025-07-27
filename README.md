@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm defi_bubu（Location: China）
+# 👋 Hi there, I'm defi_bubu（cn）
 
 ## 🚀 About Me
 Web3 Frontend Engineer who builds DEX platforms and trading interfaces. Love creating smooth user experiences for DeFi applications.
