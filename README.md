@@ -12,7 +12,7 @@ Web3 Frontend Engineer who builds DEX platforms and trading interfaces. Love cre
 - 🤖 **Quant Trading** - Enjoy building trading strategies
 
 ## 🛠️ Tech Stack
-React • TypeScript • Web3.js • TradingView • Solidity
+React • TypeScript • ethers.js | viem | wagmi | layer2 | solana • TradingView • Solidity
 
 ## 🌍 Beyond Code
 - ✈️ Traveled to 10+ countries
